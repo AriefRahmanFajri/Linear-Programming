@@ -1,3 +1,6 @@
+#Soal No.1
+#Arief Rahman Fajri
+#18523092
 library(lpSolve)
 
 f.obj <- c(3,9)
